@@ -673,7 +673,7 @@ blockquote p {
 	display: block;
 }
 
-#biography img{
+#biography .img-50{
 	max-width:50%
 }
 
